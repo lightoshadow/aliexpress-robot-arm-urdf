@@ -21,4 +21,3 @@ All arm joints move in simulation, and the gripper reaches its full opening rang
 - Measure the links' masses, centers of mass, and inertias. The current arm inertia values are provisional, and most gripper links have no inertial properties yet.
 - Simplify the collision meshes and check clearances through the arm's motion for collision-aware planning and physics simulation.
 - Add measured servo limits and joint dynamics before using the model for hardware control or calibrated physics simulation.
-- Document the simulator and validation procedure, and confirm the source STL files' redistribution terms before publishing the meshes.
